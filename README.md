@@ -10,10 +10,10 @@ A Python script was created for analyzing the financial records of a company. Th
 	* The greatest decrease in losses (date and amount) over the entire period
 
 ### Budget Data
-![Budget Data](images/budget_data.png)
+![Budget Data](Images/budget_data.png)
 
 ### Budget Results
-![Budget Results](images/budget_results.png)
+![Budget Results](Images/budget_results.png)
 
 
 ## PyPoll
@@ -26,10 +26,10 @@ A Python script was created for helping a small, rural town modernize its vote-c
 	* The winner of the election based on popular vote.
 
 ### Election Data
-![Election Data](images/election_data.png)
+![Election Data](Images/election_data.png)
 
 ### Election Results
-![Election Results](images/election_results.png)
+![Election Results](Images/election_results.png)
 
 
 ## PyBoss
@@ -41,10 +41,10 @@ A Python script was created to convert the employee records to the required form
 	* The `State` data is re-written as simple two-letter abbreviations
 
 ### Original Employee Data
-![Employee Data](images/employee_data.png)
+![Employee Data](Images/employee_data.png)
 
 ### Modified Employee Data
-![Employee Data Final](images/employee_data_final.png)
+![Employee Data Final](Images/employee_data_final.png)
 
 
 ## PyParagraph
@@ -57,7 +57,7 @@ passage for each of the following:
 	* Average sentence length (in words)
 
 ### Paragraph Text for Analysis
-![Paragraph 3 Text](images/paragraph_3_text.png)
+![Paragraph 3 Text](Images/paragraph_3_text.png)
 
 ### Paragraph Analyis
-![Paragraph 3 Analysis](images/paragraph_3_analysis.png)
+![Paragraph 3 Analysis](Images/paragraph_3_analysis.png)
